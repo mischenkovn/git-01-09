@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-### My file 4
+### My file 5
 add debug
-=======
-### My file 3
-add debug
->>>>>>> hot-fix1
+
